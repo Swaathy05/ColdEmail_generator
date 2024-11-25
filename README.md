@@ -24,7 +24,7 @@ To run the Cold Email Generator locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/cold-email-generator.git
+   git clone https://github.com/Swaathy05/cold-email-generator.git
    cd cold-email-generator
    
 
