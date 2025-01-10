@@ -39,6 +39,14 @@ Input the job listing URL in the provided text field and click "Submit".
 View Generated Emails:
 The application will process the data and display personalized cold emails for the jobs listed on the provided URL.
 
+
+## Screenshots:
+
+![Screenshot 2025-01-10 132137](https://github.com/user-attachments/assets/26e9b0ea-7564-4753-bf23-c02437ac2cb4)
+
+![Screenshot 2025-01-10 132019](https://github.com/user-attachments/assets/37deca8b-9363-466b-ba3d-8baecfdae944)
+
+
 ## Acknowledgements
 Streamlit for the easy-to-use web application framework.
 LangChain for enabling LLM functionalities.
